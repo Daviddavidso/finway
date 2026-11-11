@@ -1,0 +1,9 @@
+.pass-note
+.admin-pass
+.login-tries
+published.json
+data.js.prev
+config.php
+.DS_Store
+tools/shots/
+tools/node_modules
